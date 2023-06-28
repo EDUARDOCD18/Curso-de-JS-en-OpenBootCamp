@@ -34,4 +34,4 @@ for (var i = 0; i < 3; i++) {
 console.log(variablelet);
 
 
-console.log(typeof variablelet_
+console.log(typeof variablelet_)
