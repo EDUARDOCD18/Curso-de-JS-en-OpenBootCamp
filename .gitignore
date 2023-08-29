@@ -1,3 +1,4 @@
 *log*
-*/node_modules/
+*/node_modules/*
 *package-lock.json
+/sesion-13-eslint/eslint-npm/node_modules
